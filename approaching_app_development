@@ -1,4 +1,5 @@
 * Although many companies automatically assume that they need to create a mobile app for both iOS and Android, this is an expensive and time-consuming initiative that could potentially be avoided or delayed.  A summary of key considerations is below:
 * Desktop website, mobile-optimized website, or app: Consider the main use cases (desktop v. mobile) as well as the functionality needed to create a minimum viable product.  In general, releasing a less-than-perfect product and incorporating real customer feedback is preferable to developing a product in a vacuum.
-* Native app: A native app is extremely resource-intensive and may be susceptible to bugs/instability.  Using development tools such as PhoneGap may be greatly preferable if the technical requirements are fairly straightforward.
+* Native app: A native app is extremely resource-intensive and may be susceptible to bugs/instability.  Using development tools such as [PhoneGap](http://phonegap.com) may be greatly preferable if the technical requirements are fairly straightforward.
 * iOS v. Android: Developing for one OS at a time is far more straightforward and manageable.  Consider the prospective user base and monetization (in the US, iOS users tend to generate more revenue for app developers) before diving in.
+![](http://buzztala.com/wp-content/uploads/2013/06/Android.Apple_.001.png)
