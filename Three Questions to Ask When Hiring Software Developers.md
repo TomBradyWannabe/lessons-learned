@@ -12,6 +12,6 @@
   Consuming the poisoned wine will also kill the prisoner, without any symptoms, in 24 hours.
   How would you find out which bottle is poisoned?
 
-Link to the solution for the riddle: ![Solution](http://www.mindcipher.com/puzzles/121)
+Link to the solution for the riddle: [Solution](http://theweeklyriddle.blogspot.com/2010/08/1000-bottles-of-wine.html)
 
 ![](http://data1.whicdn.com/images/1262463/large.jpg)
